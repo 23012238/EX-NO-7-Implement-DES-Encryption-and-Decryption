@@ -1,5 +1,6 @@
 # EX-NO-7-Implement-DES-Encryption
-
+## NAME: S.L.NARASIMHA REDDY
+## REG NO :212223040214
 ## Aim:
 
 To use the Data Encryption Standard (DES) algorithm for a practical application, such as securing sensitive data transmission in financial transactions.
@@ -40,7 +41,8 @@ int main()
 }
 ~~~
 ## Output:
-![cry ex 7](https://github.com/user-attachments/assets/c6283625-fc9d-44b9-b7a3-c13b71add638)
+![image](https://github.com/user-attachments/assets/34e05edf-f8bb-491c-a232-9443e6266d6b)
+
 ## Result:
 The program is executed successfully
 
